@@ -1,4 +1,4 @@
-module github.com/zeromicro/zero-contrib/zrpc/registry/consul
+module github.com/ev11ccaatt/zero-contrib-fix/zrpc/registry/consul
 
 go 1.15
 
